@@ -103,5 +103,5 @@ This project offered hands-on exposure to:
 ## 📌 Authors & Credits
 
 **Project Team:**  
-Data Engineers at IntelloBank  
+Adeseye Ogunsina - Amdari Data Engineering Consultant  
 Special thanks to [CoinGecko](https://coingecko.com) for open API access
